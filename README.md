@@ -105,4 +105,5 @@ List available skills:
 
 ## Current skills
 
-- `flutter-github-deploy`: replicates the tag-driven GitHub Actions Android APK release flow used by the source Flutter project
+- `flutter-android-starter`: scaffolds a new Flutter Android project with Material 3 themes, Riverpod state management, English/Italian localization, and a production-ready foundation
+- `flutter-github-deploy`: adds a tag-driven GitHub Actions Android APK release flow with signed release builds to a Flutter project
